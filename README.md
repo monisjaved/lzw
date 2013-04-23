@@ -1,4 +1,4 @@
 lzw
 ===
 
-LZW Compression And Decompression
+LZW Compression And Decompression in JAVA 
